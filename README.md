@@ -2,7 +2,7 @@
 
 **1. Revisa el código del fichero ej1.html y visualízalo redimensionando la ventana y haciendo uso del inspector de código de Chrome para ver cómo se aplican los estilos en función del resultado del media query definido.**
 
-**2. Crea un fichero ej2.html dónde se muestre un número de teléfono que cumpla las siguientes especificaciones:**
+**2. Edita el fichero ej2.html para que se muestre un número de teléfono que cumpla las siguientes especificaciones:**
 - Para teléfonos y smartphones el texto se verá en el pie de página y centrado.
 - Para ordenadores se verá en la esquina superior derecha.
 
