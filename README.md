@@ -1,6 +1,6 @@
 # Hojas de estilo CSS - III - Media queries
 
-**1. Revisa el código del fichero ej1.html y visualízalo redimensionando la ventana y haciendo uso del inspector de código de Chrome para ver cómo se aplican los estilos en función del resultado del media query definido.**
+**1. Revisa el código del fichero ej1.html y visualízalo redimensionando la ventana y haciendo uso del inspector de código de Chrome para ver cómo se aplican los estilos en función del resultado del media query definido. Añade un par de media query más y aplica tus propios estilos y comprueba que efectivamente se aplican. Por ejemplo, podrías probar a cambiar el color de fuente para imprimir y visualizarlo en el previsaulizador de impresión.**
 
 **2. Edita el fichero ej2.html para que se muestre un número de teléfono que cumpla las siguientes especificaciones:**
 - Para teléfonos y smartphones el texto se verá en el pie de página y centrado.
@@ -28,3 +28,6 @@ Puedes hacer uso de los siguientes media queries:
 @media only screen and (min-width : 1200px) {
 }
 ~~~
+
+**3. Dado el fichero ej3.html, aplica el media query y estilos adecuados para que cuando el ancho del navegador sea 600px o menos, se oculte el elemento div.**
+
