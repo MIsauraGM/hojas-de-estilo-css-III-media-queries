@@ -5,7 +5,7 @@
 - Para ordenadores se verá en la esquina superior derecha.
 
 Puedes hacer uso de los siguientes media queries:
-'''
+~~~
 /* Custom, iPhone Retina */ 
 @media only screen and (min-width : 320px) {
 }
@@ -25,4 +25,4 @@ Puedes hacer uso de los siguientes media queries:
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px) {
 }
-'''
+~~~
